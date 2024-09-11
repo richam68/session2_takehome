@@ -1,0 +1,8 @@
+GET http://localhost:8082/currency/convert?value=1&currency=INR&to_currency=USD
+
+###
+GET http://localhost:8082/currency/:INR
+
+###
+GET http://localhost:8082/currency/exchange/currencies
+
